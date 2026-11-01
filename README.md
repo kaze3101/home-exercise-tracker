@@ -32,9 +32,7 @@
 
 | 実施記録の入力 | 実施率低下アラート |
 |---|---|
-| ![実施記録の入力](<img width="1437" height="771" alt="スクリーンショット 2026-11-01 15 41 01" src="https://github.com/user-attachments/assets/febfa02b-20f3-4d29-a1c1-e8c7d2a1fe1d" />
-) | ![実施率低下アラート](<img width="1440" height="772" alt="スクリーンショット 2026-11-01 15 41 42" src="https://github.com/user-attachments/assets/d56323e3-9f1a-48fc-9c37-a3405f1249cc" />
-) |
+| ![実施記録の入力]()|  ![実施率低下アラート]()|
 
 ## 使用技術
 
